@@ -6,7 +6,7 @@
 
 **https://github.com/a1g23/rails_maxcraftapi**
 
-Deployed Backend: 
+Deployed Backend: https://rails-maxcraftapi.onrender.com/products/
 
 
 ## List of Dependencies
