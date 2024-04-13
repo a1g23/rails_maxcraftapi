@@ -79,6 +79,4 @@ test:
 #
 production:
   <<: *default
-  database: maxcraftapi_production
-  username: maxcraftapi
-  password: <%= ENV["MAXCRAFTAPI_DATABASE_PASSWORD"] %>
+  url: <%= ENV['DATABASE_URL'] %>
